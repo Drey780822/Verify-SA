@@ -3,6 +3,7 @@
 **AI-powered identity and document verification for South African enterprises.**
 
 Trust every identity. Verify every document.
+
 🔗 **Live Demo:** [https://verify-sa.vercel.app/](https://verify-sa.vercel.app/)
 
 ## What is VerifySA?
