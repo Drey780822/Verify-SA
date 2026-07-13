@@ -40,10 +40,6 @@ Covers product theory, architecture, database schema, authentication, RBAC, API 
 
 Next.js 15 · React 19 · TypeScript · Tailwind CSS · Supabase · OpenAI GPT-4o · Framer Motion
 
-## Environment
-
-See [.env.example](./.env.example). Use the **publishable** Supabase key in `NEXT_PUBLIC_SUPABASE_ANON_KEY` — never the secret key.
-
 ## License
 
 Private — All rights reserved.
