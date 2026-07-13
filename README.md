@@ -4,7 +4,7 @@
 
 Trust every identity. Verify every document.
 
-🔗 **Live Demo:** [https://verify-sa.vercel.app/](https://verify-sa.vercel.app/)
+**Live Demo:** [https://verify-sa.vercel.app/](https://verify-sa.vercel.app/)
 
 ## What is VerifySA?
 
